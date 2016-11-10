@@ -2,6 +2,8 @@
 
 ## 1. Many unique characters belong to each book!
 
+###Make sure you are in the branch `Starting-Point-Sprint-3` before continuing with this set of instructions
+
 That's right we're going to add Characters to each of the books.
 Characters however are usually pretty unique to the book that they're in, so we'll be using an **embedded** document; embedding `Character` into the `Book` schema.  
 
